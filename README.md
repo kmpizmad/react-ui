@@ -1,25 +1,37 @@
 # React UI
 
-## Button
+### Button
 
-## Checkbox
+| property          | type    | default     | description                                          |
+| ----------------- | ------- | ----------- | ---------------------------------------------------- |
+| colors            | object  | -           | describes the look of the button                     |
+| colors.text       | string  | -           | requires a color code in string format               |
+| colors.background | string  | -           | requires a color code in string format               |
+| colors.hover      | string  | -           | requires a color code in string format               |
+| colors.ring       | string  | -           | requires a color code in string format               |
+| className         | string  | -           | use this for pre-defined buttons instead of `colors` |
+| variation         | string  | `contained` | valid values are `contained`, `outlined` and `text`  |
+| href              | string  | -           | creates an anchor with button properties             |
+| external          | boolean | false       | does not transform the provided `href`               |
 
-## Toggle
+### Checkbox
 
-## Radio
+### Toggle
 
-## Disclosure
+### Radio
 
-## Dropdown
+### Disclosure
 
-## Input
+### Dropdown
 
-## Textarea
+### Input
 
-## Modal
+### Textarea
 
-## Popover
+### Modal
 
-## Select
+### Popover
 
-## Snackbar
+### Select
+
+### Snackbar

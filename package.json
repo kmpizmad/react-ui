@@ -9,6 +9,9 @@
   ],
   "license": "MIT",
   "author": "Viktor Nagy",
+  "publishConfig": {
+    "access": "public"
+  },
   "homepage": "https://github.com/kmpizmad/react-ui#readme",
   "repository": {
     "type": "git",
