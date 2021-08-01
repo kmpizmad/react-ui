@@ -1,0 +1,23 @@
+{
+  "name": "@kmpizmad/react-ui",
+  "description": "UI elements for React",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "ui",
+    "react-ui"
+  ],
+  "license": "MIT",
+  "author": "Viktor Nagy",
+  "homepage": "https://github.com/kmpizmad/react-ui#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmpizmad/react-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kmpizmad/react-ui/issues"
+  },
+  "deprecated": false,
+  "private": false,
+  "main": "index.ts"
+}
